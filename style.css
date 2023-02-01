@@ -1,0 +1,60 @@
+
+body{
+    background-color: white;
+
+}
+#cardsContainer {
+    
+    display: flex;
+    justify-content: baseline;
+    justify-content: start;
+    justify-content: space-around;
+    
+    
+}
+
+
+
+#card1 {
+    display: flex;
+    align-items: center;
+  
+
+}
+
+.card {
+
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: orange;
+    background-color: lightgoldenrodyellow;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 2%;
+    text-align: left;
+    
+
+}
+
+.bar {
+    background-color: orange;
+        overflow: visible;
+        padding: 1%;
+}
+
+#nav2 {
+    display: flex;
+    justify-content: flex-end;
+    margin: 1%;
+    
+}
+
+.info {
+   display: flex;
+   position: absolute;
+   justify-content: flex-start;
+}
+
+
+
